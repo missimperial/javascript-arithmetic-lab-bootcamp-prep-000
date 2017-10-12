@@ -28,5 +28,5 @@ function preserveDecimal(n){
 }
 
 function preserveDecimal(n){
-  return parseInt(n)
+  return parseFloat(n)
 }
